@@ -47,6 +47,8 @@ contract FAssetsSettings {
         return (lotSizeAMG, assetDecimals);
     }
 }
+<img width="1346" height="628" alt="image" src="https://github.com/user-attachments/assets/15aea976-4b8f-4a16-9c02-513056bfd65f" />
+
 
 📘 What Are These Values?
 🔹 lotSizeAMG
